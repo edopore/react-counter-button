@@ -1,0 +1,22 @@
+button {
+  background-color: white;
+  cursor: pointer;
+  font-size: 35px;
+  border-radius: 15px;
+  border: 0;
+  width: 250px;
+  height: 80px;
+}
+button:hover {
+  background-color: #00471b;
+}
+
+.Button-click {
+  background-color: aqua;
+}
+.Button-reset {
+  background-color: violet;
+}
+.Button-reset:hover {
+  background-color: rgb(192, 30, 30);
+}
